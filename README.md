@@ -17,7 +17,7 @@ go get github.com/aminedakhlii/TopGgraph
 ```
 
 ## Creating a Graph
-To start using TopGGraph, you first need to create a new graph instance:
+To start using TopGgraph, you first need to create a new graph instance:
 
 ```
 package main
