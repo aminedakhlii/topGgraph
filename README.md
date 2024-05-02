@@ -23,7 +23,7 @@ To start using TopGgraph, you first need to create a new graph instance:
 package main
 
 import (
-    "github.com/yourusername/TopGGraph/pkg/graph"
+    "github.com/aminedakhlii/TopGgraph/pkg/graph"
 )
 
 func main() {
@@ -58,7 +58,7 @@ g.BFS("1", func(n *graph.Node) {
 To persist your graph data, save it to BadgerDB:
 
 ```
-import "github.com/yourusername/TopGGraph/pkg/store"
+import "github.com/aminedakhlii/TopGgraph/pkg/store"
 
 func main() {
     db, err := store.OpenBadgerDB("./tmp/badger")
