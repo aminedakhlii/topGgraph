@@ -1,6 +1,6 @@
 # topGgraph
 
-TopGGraph is an open-source graph management library developed in Go, designed to efficiently handle complex graph data structures. It's built to support various graph operations, making it a perfect toolkit for applications requiring interconnected data handling.
+TopGgraph is an open-source graph management library developed in Go, designed to efficiently handle complex graph data structures. It's built to support various graph operations, making it a perfect toolkit for applications requiring interconnected data handling.
 
 ## Features
 
