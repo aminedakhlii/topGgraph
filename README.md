@@ -13,7 +13,7 @@ TopGGraph is an open-source graph management library developed in Go, designed t
 ## Installation
 
 ```bash
-go get github.com/aminedakhlii/TopGGraph
+go get github.com/aminedakhlii/TopGgraph
 ```
 
 ## Creating a Graph
