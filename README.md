@@ -14,3 +14,12 @@ TopGGraph is an open-source graph management library developed in Go, designed t
 
 ```bash
 go get github.com/aminedakhlii/TopGGraph
+```
+
+## License
+
+TopGGraph is BSD 3-clause licensed, as found in the LICENSE file.
+
+## Support
+
+If you have any questions or issues, please open an issue on the GitHub repository.
