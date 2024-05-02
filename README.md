@@ -97,7 +97,7 @@ func main() {
 
 ## License
 
-TopGGraph is BSD 3-clause licensed, as found in the LICENSE file.
+TopGgraph is BSD 3-clause licensed, as found in the LICENSE file.
 
 ## Support
 
