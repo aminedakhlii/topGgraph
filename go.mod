@@ -1,4 +1,4 @@
-module github.com/aminedakhlii/TopGGraph
+module github.com/aminedakhlii/TopGgraph
 
 go 1.19
 
