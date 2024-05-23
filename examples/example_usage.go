@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/aminedakhlii/TopGGraph/pkg/graph"
-	"github.com/aminedakhlii/TopGGraph/pkg/store"
+	"github.com/aminedakhlii/TopGgraph/pkg/graph"
+	"github.com/aminedakhlii/TopGgraph/pkg/store"
 )
 
 func main() {

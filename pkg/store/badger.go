@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/aminedakhlii/TopGGraph/pkg/graph"
+	"github.com/aminedakhlii/TopGgraph/pkg/graph"
 	"github.com/dgraph-io/badger/v3"
 )
 
